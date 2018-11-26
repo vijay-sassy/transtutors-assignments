@@ -1,0 +1,3 @@
+Hi i require help on using JAVAFX on eclipse to program a simple air-condition remote, below listed are the 3 key items that are needed in the remote
+-it must have a screen to showcase temperature
+-it must have buttons to adjust the temperature which will reflect on the screen-it must have a on / off button

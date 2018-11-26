@@ -1,0 +1,25 @@
+package assaug4;
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Scanner;
+
+public class StudentsFileIO {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		try {
+			FileWriter writer = new FileWriter("G:\\Students.txt"); // This is the file path
+			for (int i = 1; i <= 4; i++) {
+				System.out.print("Enter Student " + i + "'s first name: ");
+				writer.write("Student " + i + "'s First Name: " + sc.next() + "\r\n");
+				System.out.print("Enter Student " + i + "'s second name: ");
+				writer.write("Student " + i + "'s Last Name: " + sc.next() + "\r\n");
+				System.out.print("Enter Student " + i + "'s ID: ");
+				writer.write("Student " + i + "'s ID: " + sc.next() + "\r\n");
+			}
+			writer.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+}

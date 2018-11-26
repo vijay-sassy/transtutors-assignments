@@ -1,0 +1,227 @@
+
+player 1 (BLUE token)  Currently on GO!, not for sale.  liquid cash $1500.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 7
+Landed on: Main Street, unowned, price = $160.00
+property bought. cash now $1340.00
+player 1 (BLUE token)  Currently on Main Street, owned by player 1  liquid cash $1340.00
+
+player 2 (RED token)  Currently on GO!, not for sale.  liquid cash $1500.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 6
+Landed on: Light Common, unowned, price = $140.00
+property bought. cash now $1360.00
+player 2 (RED token)  Currently on Light Common, owned by player 2  liquid cash $1360.00
+
+player 3 (WHITE token)  Currently on GO!, not for sale.  liquid cash $1500.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 6
+Landed on: Light Common, owned by player 2
+This property is owned by player 2
+Rent is $14.00
+player 3 now has $1486.00, player 2 now has $1374.00.
+player 3 (WHITE token)  Currently on Light Common, owned by player 2  liquid cash $1486.00
+
+player 4 (BLACK token)  Currently on GO!, not for sale.  liquid cash $1500.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 6
+Landed on: Light Common, owned by player 2
+This property is owned by player 2
+Rent is $14.00
+player 4 now has $1486.00, player 2 now has $1388.00.
+player 4 (BLACK token)  Currently on Light Common, owned by player 2  liquid cash $1486.00
+
+player 1 (BLUE token)  Currently on Main Street, owned by player 1  liquid cash $1340.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 3
+Landed on: Peninsula Drive, unowned, price = $220.00
+property bought. cash now $1120.00
+player 1 (BLUE token)  Currently on Peninsula Drive, owned by player 1  liquid cash $1120.00
+
+player 2 (RED token)  Currently on Light Common, owned by player 2  liquid cash $1388.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 4
+Landed on: Peninsula Drive, owned by player 1
+This property is owned by player 1
+Rent is $22.00
+player 2 now has $1366.00, player 1 now has $1142.00.
+player 2 (RED token)  Currently on Peninsula Drive, owned by player 1  liquid cash $1366.00
+
+player 3 (WHITE token)  Currently on Light Common, owned by player 2  liquid cash $1486.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 7
+Landed on: The Boat Cafe, unowned, price = $150.00
+property bought. cash now $1336.00
+player 3 (WHITE token)  Currently on The Boat Cafe, owned by player 3  liquid cash $1336.00
+
+player 4 (BLACK token)  Currently on Light Common, owned by player 2  liquid cash $1486.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 9
+Landed on: Mawson Lakes Boulevard, unowned, price = $260.00
+property bought. cash now $1226.00
+player 4 (BLACK token)  Currently on Mawson Lakes Boulevard, owned by player 4  liquid cash $1226.00
+
+player 1 (BLUE token)  Currently on Peninsula Drive, owned by player 1  liquid cash $1142.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 8
+Landed on: Capital Street, unowned, price = $320.00
+property bought. cash now $822.00
+player 1 (BLUE token)  Currently on Capital Street, owned by player 1  liquid cash $822.00
+
+player 2 (RED token)  Currently on Peninsula Drive, owned by player 1  liquid cash $1366.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 10
+Landed on: Pot Luck C, not for sale.
+PotLuck square!  Draw a card:
+	You must pay council rates: pay $200.00
+player 2 (RED token)  Currently on Pot Luck C, not for sale.  liquid cash $1166.00
+
+player 3 (WHITE token)  Currently on The Boat Cafe, owned by player 3  liquid cash $1336.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 9
+Landed on: Metro Parade, unowned, price = $340.00
+property bought. cash now $996.00
+player 3 (WHITE token)  Currently on Metro Parade, owned by player 3  liquid cash $996.00
+
+player 4 (BLACK token)  Currently on Mawson Lakes Boulevard, owned by player 4  liquid cash $1226.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 6
+Landed on: The Planetarium, unowned, price = $150.00
+property bought. cash now $1076.00
+player 4 (BLACK token)  Currently on The Planetarium, owned by player 4  liquid cash $1076.00
+
+player 1 (BLUE token)  Currently on Capital Street, owned by player 1  liquid cash $822.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 11
+Landed on: Technology Park Gymnasium, unowned, price = $150.00
+property bought. cash now $672.00
+player 1 (BLUE token)  Currently on Technology Park Gymnasium, owned by player 1  liquid cash $672.00
+
+player 2 (RED token)  Currently on Pot Luck C, not for sale.  liquid cash $1166.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 6
+Landed on: Park Way, unowned, price = $440.00
+property bought. cash now $726.00
+player 2 (RED token)  Currently on Park Way, owned by player 2  liquid cash $726.00
+
+player 3 (WHITE token)  Currently on Metro Parade, owned by player 3  liquid cash $996.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 8
+Landed on: Third Avenue, unowned, price = $480.00
+property bought. cash now $516.00
+player 3 (WHITE token)  Currently on Third Avenue, owned by player 3  liquid cash $516.00
+
+player 4 (BLACK token)  Currently on The Planetarium, owned by player 4  liquid cash $1076.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 11
+player 4 has completed a circuit, gain $200.
+Landed on: GO!, not for sale.
+player 4 (BLACK token)  Currently on GO!, not for sale.  liquid cash $1276.00
+
+player 1 (BLUE token)  Currently on Technology Park Gymnasium, owned by player 1  liquid cash $672.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 5
+player 1 has completed a circuit, gain $200.
+Landed on: Hurtle Parade, unowned, price = $120.00
+property bought. cash now $752.00
+player 1 (BLUE token)  Currently on Hurtle Parade, owned by player 1  liquid cash $752.00
+
+player 2 (RED token)  Currently on Park Way, owned by player 2  liquid cash $726.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 7
+player 2 has completed a circuit, gain $200.
+Landed on: Goodall Parade, unowned, price = $100.00
+property bought. cash now $826.00
+player 2 (RED token)  Currently on Goodall Parade, owned by player 2  liquid cash $826.00
+
+player 3 (WHITE token)  Currently on Third Avenue, owned by player 3  liquid cash $516.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 7
+player 3 has completed a circuit, gain $200.
+Landed on: The Shopping Centre, unowned, price = $150.00
+property bought. cash now $566.00
+player 3 (WHITE token)  Currently on The Shopping Centre, owned by player 3  liquid cash $566.00
+
+player 4 (BLACK token)  Currently on GO!, not for sale.  liquid cash $1276.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 4
+Landed on: Pot Luck A, not for sale.
+PotLuck square!  Draw a card:
+	It's your shout: pay all players $5.00
+player 4 (BLACK token)  Currently on Pot Luck A, not for sale.  liquid cash $1261.00
+
+player 1 (BLUE token)  Currently on Hurtle Parade, owned by player 1  liquid cash $757.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 2
+Landed on: Pot Luck A, not for sale.
+PotLuck square!  Draw a card:
+	do nothing #11
+	Nothing to do.
+player 1 (BLUE token)  Currently on Pot Luck A, not for sale.  liquid cash $757.00
+
+player 2 (RED token)  Currently on Goodall Parade, owned by player 2  liquid cash $831.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 10
+Landed on: Campus Connector Stop, unowned, price = $200.00
+property bought. cash now $631.00
+player 2 (RED token)  Currently on Campus Connector Stop, owned by player 2  liquid cash $631.00
+
+player 3 (WHITE token)  Currently on The Shopping Centre, owned by player 3  liquid cash $571.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 9
+Landed on: Parkview Drive, unowned, price = $240.00
+property bought. cash now $331.00
+player 3 (WHITE token)  Currently on Parkview Drive, owned by player 3  liquid cash $331.00
+
+player 4 (BLACK token)  Currently on Pot Luck A, not for sale.  liquid cash $1261.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 9
+Landed on: The Boat Cafe, owned by player 3
+This property is owned by player 3
+Rent is $180.00
+player 4 now has $1081.00, player 3 now has $511.00.
+player 4 (BLACK token)  Currently on The Boat Cafe, owned by player 3  liquid cash $1081.00
+
+player 1 (BLUE token)  Currently on Pot Luck A, not for sale.  liquid cash $757.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 10
+Landed on: Parkview Drive, owned by player 3
+This property is owned by player 3
+Rent is $24.00
+player 1 now has $733.00, player 3 now has $535.00.
+player 1 (BLUE token)  Currently on Parkview Drive, owned by player 3  liquid cash $733.00
+
+player 2 (RED token)  Currently on Campus Connector Stop, owned by player 2  liquid cash $631.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 7
+Landed on: Capital Street, owned by player 1
+This property is owned by player 1
+Rent is $32.00
+player 2 now has $599.00, player 1 now has $765.00.
+player 2 (RED token)  Currently on Capital Street, owned by player 1  liquid cash $599.00
+
+player 3 (WHITE token)  Currently on Parkview Drive, owned by player 3  liquid cash $535.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 6
+Landed on: Pot Luck C, not for sale.
+PotLuck square!  Draw a card:
+	Rise early in the morning: roll again.
+	new roll is 8...
+Landed on: Pot Luck D, not for sale.
+PotLuck square!  Draw a card:
+	Drink a double espresso: roll again.
+	new roll is 4...
+player 3 has completed a circuit, gain $200.
+Landed on: GO!, not for sale.
+player 3 (WHITE token)  Currently on GO!, not for sale.  liquid cash $735.00
+
+player 4 (BLACK token)  Currently on The Boat Cafe, owned by player 3  liquid cash $1081.00
+type 'roll', 'dump' or 'quit': roll
+dice roll is 11
+Landed on: The Plaza, not for sale.
+player 4 (BLACK token)  Currently on The Plaza, not for sale.  liquid cash $1081.00
+
+player 1 (BLUE token)  Currently on Parkview Drive, owned by player 3  liquid cash $765.00
+type 'roll', 'dump' or 'quit': dump
+type 'roll', 'dump' or 'quit': quit
+

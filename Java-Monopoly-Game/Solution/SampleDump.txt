@@ -1,0 +1,28 @@
+player 1 (BLUE token)  Currently on Parkview Drive, owned by player 3  liquid cash $765.00
+	Main Street, owned by player 1
+	Peninsula Drive, owned by player 1
+	Capital Street, owned by player 1
+	Technology Park Gymnasium, owned by player 1
+	Hurtle Parade, owned by player 1
+
+--------
+player 2 (RED token)  Currently on Capital Street, owned by player 1  liquid cash $599.00
+	Light Common, owned by player 2
+	Park Way, owned by player 2
+	Goodall Parade, owned by player 2
+	Campus Connector Stop, owned by player 2
+
+--------
+player 3 (WHITE token)  Currently on GO!, not for sale.  liquid cash $735.00
+	The Boat Cafe, owned by player 3
+	Metro Parade, owned by player 3
+	Third Avenue, owned by player 3
+	The Shopping Centre, owned by player 3
+	Parkview Drive, owned by player 3
+
+--------
+player 4 (BLACK token)  Currently on The Plaza, not for sale.  liquid cash $1081.00
+	Mawson Lakes Boulevard, owned by player 4
+	The Planetarium, owned by player 4
+
+--------
